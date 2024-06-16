@@ -34,7 +34,7 @@ The Personalized Nutrition and Health Advisor is a generative AI-powered applica
     ```
 
 3. Set up OpenAI API:
-    - Create an account and get your API key from [OpenAI]([https://openai.com/api/](https://build.nvidia.com/explore/discover?snippet_tab=Python#llama3-70b)).
+    - Create an account and get your API key from [nvidia_llama3_70b](https://build.nvidia.com/explore/discover?snippet_tab=Python#llama3-70b).
     - Replace `nvapi-KyIbcCy` in the code with your actual API key.
 
 ## Usage
