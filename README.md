@@ -6,6 +6,8 @@
 
 ![1718580288766](https://github.com/brianbrbr/Personalized-Nutrition-and-Health-Advisor/assets/90083314/1668454d-6a93-4b42-a36c-a1f9d7649d46)
 
+https://github.com/brianbrbr/Personalized-Nutrition-and-Health-Advisor/assets/90083314/f8e8dfb0-6849-4893-a4bb-1d54f2e19be4
+
 **Description:**
 Our project, the Personalized Nutrition and Health Advisor, leverages the power of NVIDIA's LLM and LangChain technologies to deliver tailored nutrition and health recommendations. By analyzing user-specific health data collected from various sources such as edge devices, wearables, and smartphones, the advisor provides personalized guidance aimed at helping users achieve their health goals.
 
