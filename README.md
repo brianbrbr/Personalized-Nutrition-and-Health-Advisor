@@ -117,10 +117,14 @@ Example of user profiles:
    api_key="your_api_key"```
 
 4. Run the interactive GUI:
+   Interact in cmd
     ```bash
     python main.py
-    streamlit run test.py 
     ```
+   Interact in browser UI
+    ```bash
+    streamlit run testUI.py 
+    ```   
 
 ## Code Explanation
 
