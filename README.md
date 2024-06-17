@@ -91,37 +91,32 @@ Example of user profiles:
 
 2. Install the required packages:
     ```bash
-    pip install pandas torch transformers openai tkinter pyttsx3
+    pip install -r requirements.txt
     ```
 
 3. Set up OpenAI API:
     - Create an account and get your API key from [nvidia_llama3_70b](https://build.nvidia.com/explore/discover?snippet_tab=Python#llama3-70b).
-    - Replace `your_api_key` in the code with your actual API key.
+    - Replace `your_api_key` in the code with your actual API key at main.py and testUI.py.
 
 ## Usage
-1. Install the required packages:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-2. Generate synthetic data:
+1. Generate synthetic data:
     ```bash
     python generate_data.py
     ```
 
-3. Preprocess the data:
+2. Preprocess the data:
     ```bash
     python preprocess_data.py
     ```
 
-4. Set up OpenAI API key:
+3. Set up OpenAI API key:
     ```bash
    # In your Python script, add your OpenAI API key
    client = OpenAI(
    base_url="https://integrate.api.nvidia.com/v1",
    api_key="your_api_key"```
 
-5. Run the interactive GUI:
+4. Run the interactive GUI:
     ```bash
     python main.py
     streamlit run test.py 
