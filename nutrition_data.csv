@@ -1,0 +1,151 @@
+user_id,date,foods,calories,protein,carbs,fats,fiber
+1,2024-06-16,"Banana, Broccoli, Rice",281,7.7,66.2,1.2,6.800000000000001
+1,2024-06-15,"Apple, Broccoli, Rice, Chicken Breast, Banana",498,39.0,80.2,5.0,9.2
+1,2024-06-14,"Broccoli, Chicken Breast, Rice",350,37.400000000000006,39.2,4.5,4.2
+1,2024-06-13,"Apple, Apple, Broccoli, Apple",211,4.6,53.2,1.2,11.0
+1,2024-06-12,"Chicken Breast, Banana, Broccoli, Apple, Apple",420,36.599999999999994,66.2,4.9,11.200000000000001
+1,2024-06-11,"Rice, Chicken Breast, Rice, Broccoli",480,40.10000000000001,67.2,4.8,4.6
+1,2024-06-10,"Apple, Broccoli, Chicken Breast",272,35.0,25.2,4.4,6.199999999999999
+1,2024-06-09,"Chicken Breast, Apple, Broccoli",272,35.0,25.2,4.4,6.199999999999999
+1,2024-06-08,"Rice, Chicken Breast, Broccoli",350,37.400000000000006,39.2,4.5,4.2
+1,2024-06-07,"Chicken Breast, Banana, Apple, Broccoli",368,36.3,52.2,4.699999999999999,8.8
+1,2024-06-06,"Apple, Broccoli, Broccoli",162,7.7,36.4,1.4,10.0
+1,2024-06-05,"Banana, Rice, Apple",278,4.3,69.0,0.8,5.4
+1,2024-06-04,"Rice, Broccoli, Chicken Breast, Banana, Rice",576,41.4,94.2,5.1,7.200000000000001
+1,2024-06-03,"Apple, Broccoli, Banana",203,5.3,52.2,1.1,8.799999999999999
+1,2024-06-02,"Banana, Apple, Broccoli",203,5.300000000000001,52.2,1.1,8.8
+1,2024-06-01,"Chicken Breast, Banana, Broccoli",316,36.0,38.2,4.5,6.4
+1,2024-05-31,"Chicken Breast, Apple, Broccoli, Rice, Rice",532,40.400000000000006,81.2,5.0,7.0
+1,2024-05-30,"Chicken Breast, Rice, Rice, Broccoli",480,40.10000000000001,67.2,4.8,4.6
+1,2024-05-29,"Banana, Banana, Apple, Rice, Broccoli",429,9.3,107.2,1.7000000000000002,11.8
+1,2024-05-28,"Rice, Apple, Rice, Rice, Chicken Breast",607,39.4,98.0,4.7,3.5999999999999996
+1,2024-05-27,"Broccoli, Banana, Banana, Rice",377,9.0,93.2,1.5,9.4
+1,2024-05-26,"Apple, Banana, Broccoli, Apple, Chicken Breast",420,36.6,66.2,4.9,11.200000000000001
+1,2024-05-25,"Banana, Broccoli, Broccoli, Rice, Rice",466,14.099999999999998,105.4,2.1,11.0
+1,2024-05-24,"Rice, Broccoli, Apple",237,6.7,53.2,1.0999999999999999,6.6
+1,2024-05-23,"Banana, Apple, Banana, Chicken Breast, Rice",539,36.6,96.0,4.7,8.0
+1,2024-05-22,"Rice, Rice, Apple",312,5.7,70.0,0.8,3.2
+1,2024-05-21,"Chicken Breast, Banana, Apple, Chicken Breast, Apple",530,63.89999999999999,55.0,7.8999999999999995,7.4
+1,2024-05-20,"Banana, Broccoli, Chicken Breast",316,36.0,38.2,4.5,6.4
+1,2024-05-19,"Apple, Broccoli, Banana",203,5.3,52.2,1.1,8.799999999999999
+1,2024-05-18,"Broccoli, Broccoli, Broccoli, Apple",217,11.400000000000002,47.599999999999994,1.9999999999999998,13.799999999999999
+2,2024-06-16,"Apple, Broccoli, Broccoli",162,7.7,36.4,1.4,10.0
+2,2024-06-15,"Apple, Rice, Chicken Breast, Apple",399,34.3,56.0,4.3,5.199999999999999
+2,2024-06-14,"Broccoli, Rice, Apple, Rice",367,9.4,81.2,1.4,7.0
+2,2024-06-13,"Apple, Banana, Apple",200,1.9000000000000001,55.0,0.7,7.4
+2,2024-06-12,"Apple, Banana, Banana, Broccoli, Rice",429,9.3,107.2,1.7,11.799999999999999
+2,2024-06-11,"Banana, Banana, Apple, Apple",296,3.1999999999999997,82.0,1.0,10.0
+2,2024-06-10,"Banana, Rice, Broccoli",281,7.7,66.2,1.2,6.8
+2,2024-06-09,"Chicken Breast, Rice, Chicken Breast, Banana",556,66.0,55.0,7.8,3.0
+2,2024-06-08,"Rice, Chicken Breast, Chicken Breast, Broccoli",515,68.4,39.2,8.1,4.2
+2,2024-06-07,"Broccoli, Rice, Banana, Apple",333,8.0,80.2,1.4,9.200000000000001
+2,2024-06-06,"Banana, Rice, Banana, Chicken Breast, Broccoli",542,40.0,93.2,5.1,9.399999999999999
+2,2024-06-05,"Chicken Breast, Rice, Banana, Broccoli, Chicken Breast",611,69.7,66.2,8.4,6.8
+2,2024-06-04,"Banana, Broccoli, Banana, Chicken Breast, Banana",508,38.599999999999994,92.2,5.1,11.6
+2,2024-06-03,"Chicken Breast, Apple, Rice, Broccoli, Rice",532,40.400000000000006,81.2,5.0,7.0
+2,2024-06-02,"Chicken Breast, Apple, Banana, Banana, Banana",505,35.199999999999996,95.0,4.7,10.2
+2,2024-06-01,"Broccoli, Chicken Breast, Rice, Banana",446,38.7,66.2,4.8,6.800000000000001
+2,2024-05-31,"Chicken Breast, Chicken Breast, Apple, Chicken Breast, Broccoli",602,97.0,25.2,11.6,6.199999999999999
+2,2024-05-30,"Banana, Apple, Rice, Rice",408,7.000000000000001,97.0,1.1,5.800000000000001
+2,2024-05-29,"Apple, Apple, Rice, Chicken Breast, Banana",495,35.599999999999994,83.0,4.6,7.800000000000001
+2,2024-05-28,"Banana, Banana, Broccoli, Broccoli",302,10.0,76.4,1.7999999999999998,12.8
+2,2024-05-27,"Apple, Banana, Banana",244,2.9000000000000004,68.0,0.8,7.6
+2,2024-05-26,"Chicken Breast, Chicken Breast, Chicken Breast, Banana",591,94.3,27.0,11.100000000000001,2.6
+2,2024-05-25,"Chicken Breast, Apple, Banana, Banana",409,33.9,68.0,4.4,7.6
+2,2024-05-24,"Broccoli, Broccoli, Rice, Apple, Chicken Breast",457,41.400000000000006,64.4,5.3,10.4
+2,2024-05-23,"Rice, Broccoli, Broccoli, Apple",292,10.400000000000002,64.4,1.7,10.4
+2,2024-05-22,"Apple, Chicken Breast, Broccoli",272,35.0,25.2,4.4,6.199999999999999
+2,2024-05-21,"Banana, Chicken Breast, Apple",313,32.599999999999994,41.0,4.1,5.0
+2,2024-05-20,"Rice, Broccoli, Broccoli",240,10.100000000000001,50.400000000000006,1.5,8.0
+2,2024-05-19,"Rice, Banana, Chicken Breast, Rice",521,37.7,83.0,4.5,3.4
+2,2024-05-18,"Banana, Apple, Broccoli, Rice",333,8.0,80.2,1.4000000000000001,9.200000000000001
+3,2024-06-16,"Rice, Chicken Breast, Chicken Breast, Banana, Banana",652,67.3,82.0,8.1,5.6
+3,2024-06-15,"Apple, Banana, Broccoli, Rice, Broccoli",388,11.7,91.4,2.0,13.0
+3,2024-06-14,"Banana, Broccoli, Chicken Breast, Chicken Breast",481,67.0,38.2,8.1,6.4
+3,2024-06-13,"Chicken Breast, Rice, Rice, Apple",477,36.7,70.0,4.4,3.2
+3,2024-06-12,"Apple, Broccoli, Banana",203,5.3,52.2,1.1,8.799999999999999
+3,2024-06-11,"Rice, Chicken Breast, Broccoli",350,37.400000000000006,39.2,4.5,4.2
+3,2024-06-10,"Apple, Broccoli, Apple, Apple, Rice",341,7.3,81.2,1.5,11.4
+3,2024-06-09,"Apple, Apple, Banana, Apple",252,2.1999999999999997,69.0,0.8999999999999999,9.8
+3,2024-06-08,"Rice, Banana, Broccoli, Broccoli, Banana",432,12.700000000000001,104.4,2.0999999999999996,13.2
+3,2024-06-07,"Apple, Apple, Rice, Rice",364,6.0,84.0,1.0,5.6000000000000005
+3,2024-06-06,"Rice, Rice, Rice, Banana, Rice",616,12.100000000000001,139.0,1.5,4.2
+3,2024-06-05,"Broccoli, Apple, Chicken Breast",272,35.0,25.2,4.4,6.199999999999999
+3,2024-06-04,"Broccoli, Apple, Chicken Breast",272,35.0,25.2,4.4,6.199999999999999
+3,2024-06-03,"Broccoli, Chicken Breast, Chicken Breast",385,65.7,11.2,7.800000000000001,3.8
+3,2024-06-02,"Apple, Banana, Chicken Breast",313,32.6,41.0,4.1,5.0
+3,2024-06-01,"Rice, Broccoli, Banana, Broccoli",336,11.4,77.4,1.7999999999999998,10.600000000000001
+3,2024-05-31,"Banana, Banana, Rice, Broccoli, Banana",473,10.3,120.2,1.8,12.0
+3,2024-05-30,"Apple, Banana, Apple, Rice, Broccoli",385,8.3,94.2,1.6,11.600000000000001
+3,2024-05-29,"Apple, Banana, Rice, Apple, Chicken Breast",495,35.6,83.0,4.6,7.800000000000001
+3,2024-05-28,"Chicken Breast, Apple, Apple, Broccoli",324,35.300000000000004,39.2,4.6,8.6
+3,2024-05-27,"Rice, Apple, Broccoli, Banana",333,8.0,80.2,1.4000000000000001,9.2
+3,2024-05-26,"Chicken Breast, Broccoli, Apple",272,35.0,25.2,4.4,6.199999999999999
+3,2024-05-25,"Broccoli, Banana, Banana, Apple, Rice",429,9.3,107.2,1.7,11.8
+3,2024-05-24,"Banana, Apple, Broccoli, Banana",299,6.6000000000000005,79.2,1.4000000000000001,11.4
+3,2024-05-23,"Apple, Banana, Apple, Apple, Rice",382,4.9,97.0,1.2,10.200000000000001
+3,2024-05-22,"Rice, Apple, Broccoli",237,6.7,53.2,1.1,6.6
+3,2024-05-21,"Broccoli, Chicken Breast, Apple, Apple, Banana",420,36.599999999999994,66.2,4.9,11.2
+3,2024-05-20,"Apple, Apple, Chicken Breast, Chicken Breast",434,62.6,28.0,7.6,4.8
+3,2024-05-19,"Chicken Breast, Rice, Banana, Apple, Broccoli",498,39.0,80.2,5.0,9.2
+3,2024-05-18,"Chicken Breast, Banana, Rice",391,35.0,55.0,4.2,3.0
+4,2024-06-16,"Broccoli, Rice, Apple, Broccoli",292,10.4,64.4,1.6999999999999997,10.399999999999999
+4,2024-06-15,"Chicken Breast, Broccoli, Chicken Breast",385,65.7,11.2,7.800000000000001,3.8
+4,2024-06-14,"Chicken Breast, Banana, Broccoli, Banana, Rice",542,40.0,93.2,5.1,9.4
+4,2024-06-13,"Apple, Chicken Breast, Broccoli, Banana, Banana",464,37.599999999999994,79.2,5.0,11.399999999999999
+4,2024-06-12,"Broccoli, Rice, Apple, Chicken Breast",402,37.7,53.2,4.7,6.6
+4,2024-06-11,"Banana, Rice, Apple",278,4.3,69.0,0.8,5.4
+4,2024-06-10,"Chicken Breast, Apple, Rice, Broccoli, Broccoli",457,41.400000000000006,64.4,5.3,10.399999999999999
+4,2024-06-09,"Chicken Breast, Broccoli, Broccoli, Chicken Breast, Banana",536,70.7,49.4,8.700000000000001,10.2
+4,2024-06-08,"Broccoli, Banana, Apple",203,5.3,52.2,1.0999999999999999,8.8
+4,2024-06-07,"Apple, Chicken Breast, Apple",269,31.6,28.0,4.0,4.8
+4,2024-06-06,"Apple, Apple, Broccoli, Apple, Rice",341,7.3,81.2,1.5,11.4
+4,2024-06-05,"Rice, Broccoli, Banana, Apple",333,8.0,80.2,1.4,9.200000000000001
+4,2024-06-04,"Apple, Chicken Breast, Rice, Apple, Apple",451,34.599999999999994,70.0,4.500000000000001,7.6
+4,2024-06-03,"Chicken Breast, Banana, Rice, Banana, Apple",539,36.599999999999994,96.0,4.7,8.0
+4,2024-06-02,"Chicken Breast, Chicken Breast, Apple, Broccoli, Chicken Breast",602,97.0,25.2,11.6,6.199999999999999
+4,2024-06-01,"Chicken Breast, Banana, Broccoli",316,36.0,38.2,4.5,6.4
+4,2024-05-31,"Chicken Breast, Rice, Chicken Breast, Apple, Chicken Breast",677,96.0,42.0,11.3,2.8
+4,2024-05-30,"Broccoli, Rice, Rice",315,9.100000000000001,67.2,1.2,4.6000000000000005
+4,2024-05-29,"Chicken Breast, Rice, Apple",347,34.0,42.0,4.1,2.8
+4,2024-05-28,"Chicken Breast, Apple, Banana, Broccoli, Apple",420,36.6,66.2,4.9,11.200000000000001
+4,2024-05-27,"Rice, Apple, Chicken Breast, Apple, Chicken Breast",564,65.3,56.0,7.9,5.199999999999999
+4,2024-05-26,"Apple, Apple, Banana, Chicken Breast",365,32.9,55.0,4.3,7.4
+4,2024-05-25,"Chicken Breast, Apple, Banana, Chicken Breast",478,63.6,41.0,7.700000000000001,5.0
+4,2024-05-24,"Banana, Broccoli, Chicken Breast",316,36.0,38.2,4.5,6.4
+4,2024-05-23,"Chicken Breast, Chicken Breast, Apple",382,62.3,14.0,7.4,2.4
+4,2024-05-22,"Rice, Apple, Rice, Banana, Broccoli",463,10.7,108.2,1.7000000000000002,9.6
+4,2024-05-21,"Chicken Breast, Banana, Rice",391,35.0,55.0,4.2,3.0
+4,2024-05-20,"Chicken Breast, Apple, Banana, Apple",365,32.9,55.0,4.300000000000001,7.4
+4,2024-05-19,"Banana, Banana, Chicken Breast, Rice, Broccoli",542,40.00000000000001,93.2,5.1,9.4
+4,2024-05-18,"Broccoli, Banana, Apple, Broccoli, Rice",388,11.7,91.4,1.9999999999999998,13.000000000000002
+5,2024-06-16,"Apple, Chicken Breast, Banana, Broccoli, Banana",464,37.6,79.2,5.0,11.4
+5,2024-06-15,"Broccoli, Broccoli, Apple, Banana, Broccoli",313,12.7,74.6,2.3,16.4
+5,2024-06-14,"Apple, Apple, Broccoli, Broccoli",214,8.0,50.400000000000006,1.6,12.399999999999999
+5,2024-06-13,"Rice, Chicken Breast, Chicken Breast",460,64.7,28.0,7.5,0.4
+5,2024-06-12,"Chicken Breast, Rice, Broccoli",350,37.400000000000006,39.2,4.5,4.2
+5,2024-06-11,"Banana, Apple, Rice, Apple",330,4.6000000000000005,83.0,1.0,7.800000000000001
+5,2024-06-10,"Chicken Breast, Banana, Chicken Breast, Banana, Apple",574,64.89999999999999,68.0,8.0,7.6
+5,2024-06-09,"Banana, Apple, Banana",244,2.9000000000000004,68.0,0.8,7.6
+5,2024-06-08,"Apple, Apple, Banana",200,1.9,55.0,0.7,7.4
+5,2024-06-07,"Broccoli, Broccoli, Chicken Breast, Broccoli, Banana",426,43.4,60.599999999999994,5.699999999999999,13.999999999999998
+5,2024-06-06,"Banana, Banana, Banana, Rice",418,6.6000000000000005,109.0,1.2,8.200000000000001
+5,2024-06-05,"Apple, Apple, Rice",234,3.3000000000000003,56.0,0.7,5.2
+5,2024-06-04,"Rice, Apple, Rice",312,5.7,70.0,0.8,3.1999999999999997
+5,2024-06-03,"Broccoli, Rice, Chicken Breast",350,37.4,39.2,4.5,4.2
+5,2024-06-02,"Banana, Rice, Banana, Rice, Apple",504,8.3,124.0,1.4,8.4
+5,2024-06-01,"Banana, Chicken Breast, Apple, Broccoli, Apple",420,36.599999999999994,66.2,4.8999999999999995,11.200000000000001
+5,2024-05-31,"Rice, Banana, Broccoli, Chicken Breast",446,38.7,66.2,4.8,6.8
+5,2024-05-30,"Apple, Apple, Rice",234,3.3000000000000003,56.0,0.7,5.2
+5,2024-05-29,"Banana, Chicken Breast, Banana, Banana",453,34.89999999999999,81.0,4.5,7.800000000000001
+5,2024-05-28,"Banana, Apple, Chicken Breast",313,32.6,41.0,4.1,5.0
+5,2024-05-27,"Broccoli, Rice, Broccoli, Banana, Broccoli",391,15.100000000000001,88.60000000000001,2.4,14.399999999999999
+5,2024-05-26,"Rice, Apple, Apple",234,3.3,56.0,0.7,5.199999999999999
+5,2024-05-25,"Broccoli, Broccoli, Chicken Breast, Banana, Rice",501,42.4,77.4,5.3999999999999995,10.6
+5,2024-05-24,"Rice, Chicken Breast, Apple, Apple",399,34.3,56.0,4.3,5.199999999999999
+5,2024-05-23,"Chicken Breast, Broccoli, Broccoli, Apple",327,38.7,36.4,5.0,10.0
+5,2024-05-22,"Broccoli, Broccoli, Apple, Banana, Broccoli",313,12.7,74.6,2.3,16.4
+5,2024-05-21,"Broccoli, Broccoli, Rice, Apple",292,10.400000000000002,64.4,1.7,10.4
+5,2024-05-20,"Rice, Broccoli, Chicken Breast, Banana",446,38.699999999999996,66.2,4.8,6.800000000000001
+5,2024-05-19,"Rice, Chicken Breast, Banana",391,35.0,55.0,4.2,3.0
+5,2024-05-18,"Apple, Chicken Breast, Apple, Banana, Apple",417,33.199999999999996,69.0,4.5,9.8

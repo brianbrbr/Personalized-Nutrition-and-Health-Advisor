@@ -1,0 +1,151 @@
+user_id,date,weight,cholesterol_level,blood_pressure,age,gender,personality,preferences,routine
+1,2024-06-16,75.4326187710784,210,134/88,25,Male,Active,Low fat,Morning exercise
+1,2024-06-15,61.51797493716425,210,123/82,25,Male,Active,Low fat,Morning exercise
+1,2024-06-14,71.26343480717199,165,125/82,25,Male,Active,Low fat,Morning exercise
+1,2024-06-13,84.6791637914483,211,134/74,25,Male,Active,Low fat,Morning exercise
+1,2024-06-12,81.61868122341306,232,121/70,25,Male,Active,Low fat,Morning exercise
+1,2024-06-11,79.38111574745741,248,124/75,25,Male,Active,Low fat,Morning exercise
+1,2024-06-10,86.60556141489451,199,139/70,25,Male,Active,Low fat,Morning exercise
+1,2024-06-09,66.26306097714618,216,128/83,25,Male,Active,Low fat,Morning exercise
+1,2024-06-08,84.81055223465685,167,135/70,25,Male,Active,Low fat,Morning exercise
+1,2024-06-07,68.31054200825876,232,119/82,25,Male,Active,Low fat,Morning exercise
+1,2024-06-06,76.92794885738444,216,135/73,25,Male,Active,Low fat,Morning exercise
+1,2024-06-05,63.09948292528209,171,125/88,25,Male,Active,Low fat,Morning exercise
+1,2024-06-04,82.53533789221177,229,126/76,25,Male,Active,Low fat,Morning exercise
+1,2024-06-03,81.03604847826165,189,125/71,25,Male,Active,Low fat,Morning exercise
+1,2024-06-02,85.3027010401389,243,113/82,25,Male,Active,Low fat,Morning exercise
+1,2024-06-01,69.97140515102613,164,120/88,25,Male,Active,Low fat,Morning exercise
+1,2024-05-31,82.5950343865992,223,130/80,25,Male,Active,Low fat,Morning exercise
+1,2024-05-30,84.82777384264499,247,114/81,25,Male,Active,Low fat,Morning exercise
+1,2024-05-29,77.8564786463476,217,130/72,25,Male,Active,Low fat,Morning exercise
+1,2024-05-28,87.62667263228884,168,121/88,25,Male,Active,Low fat,Morning exercise
+1,2024-05-27,62.687196338063245,164,123/82,25,Male,Active,Low fat,Morning exercise
+1,2024-05-26,87.93911064396741,242,131/81,25,Male,Active,Low fat,Morning exercise
+1,2024-05-25,71.23155534006547,220,120/75,25,Male,Active,Low fat,Morning exercise
+1,2024-05-24,69.88994440914966,240,130/82,25,Male,Active,Low fat,Morning exercise
+1,2024-05-23,70.4248163575131,217,117/86,25,Male,Active,Low fat,Morning exercise
+1,2024-05-22,62.420752200615844,225,136/84,25,Male,Active,Low fat,Morning exercise
+1,2024-05-21,65.38869930907886,178,130/79,25,Male,Active,Low fat,Morning exercise
+1,2024-05-20,88.9943868241463,151,124/86,25,Male,Active,Low fat,Morning exercise
+1,2024-05-19,63.60637193694307,250,128/70,25,Male,Active,Low fat,Morning exercise
+1,2024-05-18,84.96875782432738,161,134/84,25,Male,Active,Low fat,Morning exercise
+2,2024-06-16,67.34169208796081,156,119/82,30,Female,Sedentary,High protein,Evening walks
+2,2024-06-15,81.26345906170891,186,124/81,30,Female,Sedentary,High protein,Evening walks
+2,2024-06-14,71.73151382184957,178,118/89,30,Female,Sedentary,High protein,Evening walks
+2,2024-06-13,61.915434135137424,235,116/78,30,Female,Sedentary,High protein,Evening walks
+2,2024-06-12,80.63691217438844,250,138/88,30,Female,Sedentary,High protein,Evening walks
+2,2024-06-11,71.63214282694946,151,124/76,30,Female,Sedentary,High protein,Evening walks
+2,2024-06-10,82.32202337165178,157,118/88,30,Female,Sedentary,High protein,Evening walks
+2,2024-06-09,67.74332551199217,181,134/87,30,Female,Sedentary,High protein,Evening walks
+2,2024-06-08,68.51662096697798,204,114/73,30,Female,Sedentary,High protein,Evening walks
+2,2024-06-07,79.93079069476418,227,113/90,30,Female,Sedentary,High protein,Evening walks
+2,2024-06-06,80.69478453921465,211,133/84,30,Female,Sedentary,High protein,Evening walks
+2,2024-06-05,89.30573703195293,236,123/88,30,Female,Sedentary,High protein,Evening walks
+2,2024-06-04,76.4751710635332,246,139/71,30,Female,Sedentary,High protein,Evening walks
+2,2024-06-03,74.80286560820304,248,116/75,30,Female,Sedentary,High protein,Evening walks
+2,2024-06-02,88.71304139514353,164,133/90,30,Female,Sedentary,High protein,Evening walks
+2,2024-06-01,65.66350267973527,235,111/83,30,Female,Sedentary,High protein,Evening walks
+2,2024-05-31,82.78629109605349,214,127/85,30,Female,Sedentary,High protein,Evening walks
+2,2024-05-30,88.04868680405329,162,134/78,30,Female,Sedentary,High protein,Evening walks
+2,2024-05-29,68.91424193987548,234,118/76,30,Female,Sedentary,High protein,Evening walks
+2,2024-05-28,64.78274477414536,154,119/88,30,Female,Sedentary,High protein,Evening walks
+2,2024-05-27,67.83379427591862,184,126/74,30,Female,Sedentary,High protein,Evening walks
+2,2024-05-26,83.76605833704741,155,127/79,30,Female,Sedentary,High protein,Evening walks
+2,2024-05-25,63.780034647235766,170,132/86,30,Female,Sedentary,High protein,Evening walks
+2,2024-05-24,65.06205861222305,201,123/72,30,Female,Sedentary,High protein,Evening walks
+2,2024-05-23,62.41978150580514,225,114/90,30,Female,Sedentary,High protein,Evening walks
+2,2024-05-22,75.95106361280287,237,132/80,30,Female,Sedentary,High protein,Evening walks
+2,2024-05-21,71.90122741587032,173,139/85,30,Female,Sedentary,High protein,Evening walks
+2,2024-05-20,64.24121878936344,153,129/71,30,Female,Sedentary,High protein,Evening walks
+2,2024-05-19,68.943470515429,240,129/77,30,Female,Sedentary,High protein,Evening walks
+2,2024-05-18,64.19735115514713,163,114/73,30,Female,Sedentary,High protein,Evening walks
+3,2024-06-16,65.54503198892989,220,137/76,35,Male,Moderately active,Balanced diet,Afternoon gym
+3,2024-06-15,87.06592294593496,155,133/87,35,Male,Moderately active,Balanced diet,Afternoon gym
+3,2024-06-14,71.60015914683547,194,131/81,35,Male,Moderately active,Balanced diet,Afternoon gym
+3,2024-06-13,60.10462892185428,235,111/78,35,Male,Moderately active,Balanced diet,Afternoon gym
+3,2024-06-12,63.6807895607229,222,132/78,35,Male,Moderately active,Balanced diet,Afternoon gym
+3,2024-06-11,67.86289532917338,157,135/89,35,Male,Moderately active,Balanced diet,Afternoon gym
+3,2024-06-10,66.88161224280202,172,122/85,35,Male,Moderately active,Balanced diet,Afternoon gym
+3,2024-06-09,61.80478647057639,229,140/74,35,Male,Moderately active,Balanced diet,Afternoon gym
+3,2024-06-08,88.9072600129053,241,113/90,35,Male,Moderately active,Balanced diet,Afternoon gym
+3,2024-06-07,87.65746128904571,207,136/76,35,Male,Moderately active,Balanced diet,Afternoon gym
+3,2024-06-06,70.12395027410273,150,133/89,35,Male,Moderately active,Balanced diet,Afternoon gym
+3,2024-06-05,69.85315050154126,207,127/88,35,Male,Moderately active,Balanced diet,Afternoon gym
+3,2024-06-04,88.96386452291264,247,111/76,35,Male,Moderately active,Balanced diet,Afternoon gym
+3,2024-06-03,66.70719985922639,247,121/88,35,Male,Moderately active,Balanced diet,Afternoon gym
+3,2024-06-02,85.30353895705171,224,116/72,35,Male,Moderately active,Balanced diet,Afternoon gym
+3,2024-06-01,70.53740357520736,226,120/81,35,Male,Moderately active,Balanced diet,Afternoon gym
+3,2024-05-31,65.3145336214966,165,113/80,35,Male,Moderately active,Balanced diet,Afternoon gym
+3,2024-05-30,81.34140135147373,156,133/83,35,Male,Moderately active,Balanced diet,Afternoon gym
+3,2024-05-29,69.93642472311178,230,118/90,35,Male,Moderately active,Balanced diet,Afternoon gym
+3,2024-05-28,78.89295765917873,216,113/84,35,Male,Moderately active,Balanced diet,Afternoon gym
+3,2024-05-27,88.89240117706481,196,114/90,35,Male,Moderately active,Balanced diet,Afternoon gym
+3,2024-05-26,77.84396402525923,228,134/83,35,Male,Moderately active,Balanced diet,Afternoon gym
+3,2024-05-25,67.84771591748297,243,125/80,35,Male,Moderately active,Balanced diet,Afternoon gym
+3,2024-05-24,84.48152117744172,150,126/70,35,Male,Moderately active,Balanced diet,Afternoon gym
+3,2024-05-23,82.59039938432394,183,124/88,35,Male,Moderately active,Balanced diet,Afternoon gym
+3,2024-05-22,86.98967577472881,235,140/71,35,Male,Moderately active,Balanced diet,Afternoon gym
+3,2024-05-21,75.67134196557689,194,128/90,35,Male,Moderately active,Balanced diet,Afternoon gym
+3,2024-05-20,69.2017410497814,188,140/88,35,Male,Moderately active,Balanced diet,Afternoon gym
+3,2024-05-19,68.88072615719204,233,126/84,35,Male,Moderately active,Balanced diet,Afternoon gym
+3,2024-05-18,83.61442165373703,169,120/79,35,Male,Moderately active,Balanced diet,Afternoon gym
+4,2024-06-16,81.02454311621578,250,121/89,40,Female,Active,Low carb,Morning yoga
+4,2024-06-15,85.1012994923265,228,121/72,40,Female,Active,Low carb,Morning yoga
+4,2024-06-14,87.94100440631934,231,135/77,40,Female,Active,Low carb,Morning yoga
+4,2024-06-13,75.96118980739851,199,120/84,40,Female,Active,Low carb,Morning yoga
+4,2024-06-12,63.88243999272318,215,119/76,40,Female,Active,Low carb,Morning yoga
+4,2024-06-11,89.4227449157291,165,135/75,40,Female,Active,Low carb,Morning yoga
+4,2024-06-10,88.08451900835462,179,137/72,40,Female,Active,Low carb,Morning yoga
+4,2024-06-09,73.71814553210505,224,114/72,40,Female,Active,Low carb,Morning yoga
+4,2024-06-08,62.157657689709794,184,131/80,40,Female,Active,Low carb,Morning yoga
+4,2024-06-07,66.66228010983451,222,136/74,40,Female,Active,Low carb,Morning yoga
+4,2024-06-06,67.83451812642147,216,139/86,40,Female,Active,Low carb,Morning yoga
+4,2024-06-05,73.35284319833124,203,129/73,40,Female,Active,Low carb,Morning yoga
+4,2024-06-04,64.15419112625298,186,134/70,40,Female,Active,Low carb,Morning yoga
+4,2024-06-03,73.54425689799488,154,127/75,40,Female,Active,Low carb,Morning yoga
+4,2024-06-02,85.65049645764577,195,136/83,40,Female,Active,Low carb,Morning yoga
+4,2024-06-01,73.11986502006219,179,136/70,40,Female,Active,Low carb,Morning yoga
+4,2024-05-31,79.2571390374433,226,126/88,40,Female,Active,Low carb,Morning yoga
+4,2024-05-30,72.44829820808063,151,140/86,40,Female,Active,Low carb,Morning yoga
+4,2024-05-29,78.1396986879647,216,116/87,40,Female,Active,Low carb,Morning yoga
+4,2024-05-28,77.02498014702732,230,135/86,40,Female,Active,Low carb,Morning yoga
+4,2024-05-27,63.68862915356009,188,140/74,40,Female,Active,Low carb,Morning yoga
+4,2024-05-26,63.874990178078576,233,140/90,40,Female,Active,Low carb,Morning yoga
+4,2024-05-25,78.36014746932939,216,133/85,40,Female,Active,Low carb,Morning yoga
+4,2024-05-24,72.50402634095552,232,120/70,40,Female,Active,Low carb,Morning yoga
+4,2024-05-23,67.68694693519627,216,136/89,40,Female,Active,Low carb,Morning yoga
+4,2024-05-22,76.51704995024191,182,137/71,40,Female,Active,Low carb,Morning yoga
+4,2024-05-21,71.93713537923718,246,128/83,40,Female,Active,Low carb,Morning yoga
+4,2024-05-20,84.05113469409918,186,114/73,40,Female,Active,Low carb,Morning yoga
+4,2024-05-19,66.37253950472234,151,119/88,40,Female,Active,Low carb,Morning yoga
+4,2024-05-18,66.04766348147756,249,116/88,40,Female,Active,Low carb,Morning yoga
+5,2024-06-16,63.54413072706959,219,122/77,28,Male,Sedentary,High fiber,No specific routine
+5,2024-06-15,80.68651264332087,219,114/84,28,Male,Sedentary,High fiber,No specific routine
+5,2024-06-14,61.69853719554579,190,119/78,28,Male,Sedentary,High fiber,No specific routine
+5,2024-06-13,66.1556276324065,207,137/70,28,Male,Sedentary,High fiber,No specific routine
+5,2024-06-12,64.79483582505392,156,127/89,28,Male,Sedentary,High fiber,No specific routine
+5,2024-06-11,84.40130708817071,190,130/79,28,Male,Sedentary,High fiber,No specific routine
+5,2024-06-10,78.86989778513444,164,110/70,28,Male,Sedentary,High fiber,No specific routine
+5,2024-06-09,64.05235873140525,156,111/85,28,Male,Sedentary,High fiber,No specific routine
+5,2024-06-08,84.87620247267483,220,133/87,28,Male,Sedentary,High fiber,No specific routine
+5,2024-06-07,64.71256757161079,212,113/82,28,Male,Sedentary,High fiber,No specific routine
+5,2024-06-06,85.9523049051835,216,112/90,28,Male,Sedentary,High fiber,No specific routine
+5,2024-06-05,65.12165243068357,195,116/88,28,Male,Sedentary,High fiber,No specific routine
+5,2024-06-04,86.55794657247925,222,137/81,28,Male,Sedentary,High fiber,No specific routine
+5,2024-06-03,79.87466671568424,215,110/71,28,Male,Sedentary,High fiber,No specific routine
+5,2024-06-02,89.73064819152891,162,140/88,28,Male,Sedentary,High fiber,No specific routine
+5,2024-06-01,86.73178790389937,250,114/88,28,Male,Sedentary,High fiber,No specific routine
+5,2024-05-31,80.38315119668553,189,139/90,28,Male,Sedentary,High fiber,No specific routine
+5,2024-05-30,76.89219357547861,175,140/71,28,Male,Sedentary,High fiber,No specific routine
+5,2024-05-29,77.89495428590809,248,139/89,28,Male,Sedentary,High fiber,No specific routine
+5,2024-05-28,84.39183450101046,213,117/79,28,Male,Sedentary,High fiber,No specific routine
+5,2024-05-27,61.82974541813792,243,130/73,28,Male,Sedentary,High fiber,No specific routine
+5,2024-05-26,73.63837119513366,217,137/90,28,Male,Sedentary,High fiber,No specific routine
+5,2024-05-25,76.05554940711144,159,116/81,28,Male,Sedentary,High fiber,No specific routine
+5,2024-05-24,70.14226524796203,229,121/88,28,Male,Sedentary,High fiber,No specific routine
+5,2024-05-23,69.03753154782932,193,116/73,28,Male,Sedentary,High fiber,No specific routine
+5,2024-05-22,86.4070779525669,186,116/70,28,Male,Sedentary,High fiber,No specific routine
+5,2024-05-21,63.40376886291478,180,121/70,28,Male,Sedentary,High fiber,No specific routine
+5,2024-05-20,65.67807288904433,195,118/79,28,Male,Sedentary,High fiber,No specific routine
+5,2024-05-19,66.7925190116386,222,122/83,28,Male,Sedentary,High fiber,No specific routine
+5,2024-05-18,62.84683284092001,195,130/76,28,Male,Sedentary,High fiber,No specific routine

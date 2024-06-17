@@ -1,0 +1,6 @@
+pandas
+numpy
+streamlit
+transformers
+openai
+torch
