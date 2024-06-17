@@ -85,8 +85,8 @@ Example of user profiles:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/brianbrbr/personalized-nutrition-health-advisor.git
-    cd personalized-nutrition-health-advisor
+    git clone https://github.com/brianbrbr/Personalized-Nutrition-and-Health-Advisor.git
+    cd Personalized-Nutrition-and-Health-Advisor
     ```
 
 2. Install the required packages:
