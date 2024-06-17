@@ -85,7 +85,7 @@ Example of user profiles:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/personalized-nutrition-health-advisor.git
+    git clone https://github.com/brianbrbr/personalized-nutrition-health-advisor.git
     cd personalized-nutrition-health-advisor
     ```
 
