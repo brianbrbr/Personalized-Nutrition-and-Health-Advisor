@@ -155,7 +155,7 @@ Example of user profiles:
 ## Contact
 
 - Name: Brian
-- Email: liubrian888@gmail.com.tw
+- Email: liubrian888@gmail.com
 - Country: Taiwan
 
 ## Submission:
