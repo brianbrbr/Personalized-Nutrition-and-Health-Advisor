@@ -124,6 +124,10 @@ Example of user profiles:
    Interact in browser UI
     ```bash
     streamlit run testUI.py 
+    ```
+   Interact in Jupyternotebook
+    ```bash
+    # Just run the code in all.pynb
     ```   
 
 ## Code Explanation
@@ -131,6 +135,9 @@ Example of user profiles:
 - `generate_data.py`: Generates synthetic food intake and health metric data for 30 days for different user profiles.
 - `preprocess_data.py`: Merges the nutrition and health data, filling any missing values and saving the preprocessed data.
 - `main.py`: The main interactive script that takes user input, processes the data using NVIDIA's LLM, and provides personalized health recommendations.
+- `testUI.py`: Provides a Streamlit-based user interface for interacting with the personalized nutrition and health advisor, allowing users to input their data and view recommendations.
+- `all.pynb`: An interactive Jupyter notebook that combines the code from `generate_data.py`, `preprocess_data.py`, and `main.py` for testing and demonstrating the workflow in an interactive manner.
+
 
 ## Submission
 
